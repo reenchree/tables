@@ -1,30 +1,30 @@
-+------+-----+---------------------------------------------------------------+
-|                      PATCH PANEL JACK ASSIGNMENTS                        |
-+------+-----+---------------------------------------------------------------+
-| Jack | Old | Description                                                   |
-+------+-----+---------------------------------------------------------------+
-|    1 |   1 | Living Room Port 1                                            |
-|    2 |   6 | Living Room Port 2                                            |
-|    3 |  10 | Garage                                                        |
-|    4 |   4 | Family Room P1 Port 1                                         |
-|    5 |   5 | Family Room P1 Port 2                                         |
-|    6 |   2 | Family Room P2 Port 1                                         |
-|    7 |   x | Family Room P2 Port 2 (Unused)                                |
-|    8 |   3 | Family Room P2 Port 3                                         |
-|    9 |  fi | Family Room P2 Port 4 (Homelab Rack)                          |
-|   10 |   9 | Family Room AP                                                |
-|   11 |   7 | Central AP Port 1                                             |
-|   12 |   8 | Central AP Port 2                                             |
-|   13 |  11 | Outdoor South Port 1                                          |
-|   14 |  12 | Outdoor South Port 2                                          |
-|   15 |  13 | Outdoor South Port 3                                          |
-|   16 |  14 | Outdoor South Port 4                                          |
-|   17 |   x | Omada OC220                                                   |
-|   18 |   x | Ecowitt                                                       |
-|   19 |   x | ATA 1                                                         |
-|   20 |   x | ATA 2                                                         |
-|   21 |   x | ATA 3                                                         |
-|   22 |   x | ATA 4                                                         |
-|   23 |   x | Sanjay's NAS                                                  |
-|   24 |   x | (OPEN)                                                        |
-+------+-----+---------------------------------------------------------------+
+===============================================================================
+                      PATCH PANEL JACK ASSIGNMENTS
+===============================================================================
+ Jack | Old | Description
+------+-----+------------------------------------------------------------------
+    1 |   1 | Living Room Port 1
+    2 |   6 | Living Room Port 2
+    3 |  10 | Garage
+    4 |   5 | Family Room P1 Port 1
+    5 |   4 | Family Room P1 Port 2
+    6 |   2 | Family Room P2 Port 1
+    7 |   x | Family Room P2 Port 2 (Unused)
+    8 |   3 | Family Room P2 Port 3
+    9 |  fi | Family Room P2 Port 4 (Homelab Rack)
+   10 |   9 | Family Room AP
+   11 |   7 | Central AP Port 1
+   12 |   8 | Central AP Port 2
+   13 |  11 | Outdoor South Port 1
+   14 |  12 | Outdoor South Port 2
+   15 |  13 | Outdoor South Port 3
+   16 |  14 | Outdoor South Port 4
+   17 |   x | Omada OC220
+   18 |   x | Ecowitt
+   19 |   x | ATA 1
+   20 |   x | ATA 2
+   21 |   x | ATA 3
+   22 |   x | ATA 4
+   23 |   x | Sanjay's NAS
+   24 |   x | (OPEN)
+===============================================================================
