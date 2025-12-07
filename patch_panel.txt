@@ -1,30 +1,30 @@
 ===============================================================================
-                      PATCH PANEL JACK ASSIGNMENTS
+                     PATCH PANEL JACK ASSIGNMENTS
 ===============================================================================
- Jack | Old | Description
-------+-----+------------------------------------------------------------------
-    1 |   1 | Living Room Port 1
-    2 |   6 | Living Room Port 2
-    3 |  10 | Garage
-    4 |   5 | Family Room P1 Port 1
-    5 |   4 | Family Room P1 Port 2
-    6 |   2 | Family Room P2 Port 1
-    7 |   x | Family Room P2 Port 2 (Unused)
-    8 |   3 | Family Room P2 Port 3
-    9 |  fi | Family Room P2 Port 4 (Homelab Rack)
-   10 |   9 | Family Room AP
-   11 |   7 | Central AP Port 1
-   12 |   8 | Central AP Port 2
-   13 |  11 | Outdoor South Port 1
-   14 |  12 | Outdoor South Port 2
-   15 |  13 | Outdoor South Port 3
-   16 |  14 | Outdoor South Port 4
-   17 |   x | Omada OC220
-   18 |   x | Ecowitt
-   19 |   x | ATA 1
-   20 |   x | ATA 2
-   21 |   x | ATA 3
-   22 |   x | ATA 4
-   23 |   x | Sanjay's NAS
-   24 |   x | (OPEN)
+ Port | Physical Location                    | Client
+------+--------------------------------------+----------------------------------
+    1 | Family Room Outlet 1 Port 1          | Media Center Switch
+    2 | Family Room Outlet 2 Port 3          | Family Room Rack 1
+    3 | Outdoor South Port 1                 | hikvision side_gate
+    4 | Outdoor South Port 2                 | reolink side_ptz
+    5 | Outdoor South Port 3                 | reolink backyard
+    6 | Outdoor South Port 4                 | unused
+    7 | Ecowitt                              |
+    8 | Sanjay NAS                           |
+    9 | Mikrotik hEX Router Port 1           | Bangalore VPN Gateway
+   10 | Mikrotik hEX Router Port 2           | Bangalore VPN Access
+   11 | blank                                |
+   12 | blank                                |
+   13 | Central AP Port 2                    | unused
+   14 | Omada OC220                          | Omada Controller
+   15 | Living Room Port 1                   | WAN (Quantum Fiber)
+   16 | Living Room Port 2                   | WAN (T-Mobile)
+   17 | Mikrotik hEX Router Port 3           | WAN (Bangalore VPN)
+   18 | Garage                               |
+   19 | Family Room Outlet 2 Port 4          | Family Room Rack 24
+   20 | Server Rack                          | Server Rack Switch Port 28
+   21 | Family Room Outlet 1 Port 2          | Xiao (Gaming PC)
+   22 | Family Room Outlet 2 Port 1          | Thunderbolt Dock
+   23 | Central AP Port 1                    | EAP783
+   24 | Family Room AP                       | EAP773
 ===============================================================================
