@@ -13,14 +13,14 @@
     8 | Sanjay NAS                           |
     9 | Mikrotik hEX Router Port 1           | Bangalore VPN Gateway
    10 | Mikrotik hEX Router Port 2           | Bangalore VPN Access
-   11 | blank                                |
-   12 | blank                                |
-   13 | Central AP Port 2                    | unused
-   14 | Omada OC220                          | Omada Controller
-   15 | Living Room Port 1                   | WAN (Quantum Fiber)
-   16 | Living Room Port 2                   | WAN (T-Mobile)
-   17 | Mikrotik hEX Router Port 3           | WAN (Bangalore VPN)
-   18 | Garage                               |
+   13 | This panel Port 15                   | T-Mobile LAN Access
+   12 | Central AP Port 2                    | unused
+   13 | Omada OC220                          | Omada Controller
+   14 | Living Room Port 1                   | WAN (Quantum Fiber)
+   15 | This panel Port 13                   | WAN (T-Mobile LAN Access)
+   16 | Mikrotik hEX Router Port 3           | WAN (Bangalore VPN)
+   17 | Living Room Port 2                   | Living Room Switch Port 10
+   18 | Garage                               | Garage Switch Port 10
    19 | Family Room Outlet 2 Port 4          | Family Room Rack 24
    20 | Server Rack                          | Server Rack Switch Port 28
    21 | Family Room Outlet 1 Port 2          | Xiao (Gaming PC)
