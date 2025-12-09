@@ -13,7 +13,7 @@
     8 | Sanjay NAS                           |
     9 | Mikrotik hEX Router Port 1           | Bangalore VPN Gateway
    10 | Mikrotik hEX Router Port 2           | Bangalore VPN Access
-   13 | This panel Port 15                   | T-Mobile LAN Access
+   11 | This panel Port 15                   | T-Mobile LAN Access
    12 | Central AP Port 2                    | unused
    13 | Omada OC220                          | Omada Controller
    14 | Living Room Port 1                   | WAN (Quantum Fiber)
